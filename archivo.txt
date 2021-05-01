@@ -1,2 +1,3 @@
 Hola mi nombre es Juan David
 Tengo 24 años, y sigo creciendo en mi vida!
+Tengo maestria en <i class="fa fa-git" aria-hidden="true"></i>
