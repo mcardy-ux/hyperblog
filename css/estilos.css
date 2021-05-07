@@ -5,6 +5,13 @@ body{
 }
 
 .footer{
-    color :black;
+    color :cadetblue;
     text-align: center;
+    font-family:"Arial";
+}
+.content{
+    color:gray;
+    text-align: left;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 19px;
 }
